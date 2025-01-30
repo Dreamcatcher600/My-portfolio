@@ -17,13 +17,13 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:hey@vipuljha.com">
-            hey@vipuljha.com
+            alvaradoadan139@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Copyright &copy; {year} <Link href="https://www.vipuljha.com">  Vipul Jha</Link>. All rights reserved.</Slogan>
+          <Slogan>Copyright &copy; {year} <Link href="https://www.adanalvarado.com">  Adan Alvarado</Link>. All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/lordarcadius">

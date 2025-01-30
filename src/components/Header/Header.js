@@ -10,7 +10,7 @@ const Header = () => (
         href="/"
         style={{ display: 'flex', alignItems: 'center', color: "white" }}>
 
-        <img src="/logo.svg" height={40} width={40} /> <span style={{ marginLeft: 10, marginTop: 7, fontSize: 20 }} >Vipul Jha</span>
+        <img src="/logo.svg" height={40} width={40} /> <span style={{ marginLeft: 10, marginTop: 7, fontSize: 20 }} >Adan Alvarado</span>
 
       </Link>
     </Div1>
@@ -24,16 +24,6 @@ const Header = () => (
         <Link href="#skills" legacyBehavior>
           <NavLink>Skills</NavLink>
         </Link>
-      </li>
-      <li>
-        <Link href="#about" legacyBehavior>
-          <NavLink>About</NavLink>
-        </Link>
-      </li>
-      <li>
-        <a href="https://blog.vipuljha.com">
-          <NavLink>Blog</NavLink>
-        </a>
       </li>
     </Div2>
     <Div3>

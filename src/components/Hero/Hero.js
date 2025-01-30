@@ -12,7 +12,7 @@ const Hero = (props) => (
           Hey there,
         </SectionTitle>
         <SectionText>
-        I'm Vipul Jha, also known as lordarcadius. I'm an Android developer from Delhi, India with experience in ROMs, Kernels, & Scripts. Currently, I am working in Primebook as an Android Engineer. I'm passionate about contributing to open-source projects and helping the developer community on Facebook and Telegram.
+        Results-driven Full Stack Developer with expertise in React, Django and Node.js. Proven ability to build scalable and efficient applications, applying strong knowledge of data structures and algorithms to solve complex problems. Excellent communication skills with a collaborative approach to team projects, ensuring seamless cross-functional work. Adept at learning new technologies and adapting to fast-paced environments.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();

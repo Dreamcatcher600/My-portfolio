@@ -18,9 +18,6 @@ const Technologies = () => (
           </picture>
           <ListContainer>
             <ListTitle>{Skill.title}</ListTitle>
-            <ListParagraph>
-              <Skill.Description />
-            </ListParagraph>
           </ListContainer>
         </ListItem>
       ))}
@@ -29,4 +26,4 @@ const Technologies = () => (
   </Section>
 );
 
-export default Technologies;
+export default Technologies

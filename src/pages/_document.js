@@ -35,7 +35,7 @@ export default class MyDocument extends Document {
           <meta name="title" content="Vipul Jha - Android Developer" />
           <meta name="description" content="Vipul Jha, also known as lordarcadius is an Android Engineer at Primebook. He has also worked on ROMs, Kernels and Scripts." />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Vipul Jha - Android Developer" />
+          <meta property="og:title" content="Adan Alvarado - Fullstack Engineer" />
           <meta property="og:description" content="Vipul Jha, also known as lordarcadius is an Android Engineer at Primebook. He has also worked on ROMs, Kernels and Scripts." />
           <meta property="og:image" content="https://www.vipuljha.com/images/banner.png" />
           <meta property="twitter:card" content="summary_large_image" />
